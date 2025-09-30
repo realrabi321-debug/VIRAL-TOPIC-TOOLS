@@ -18,7 +18,6 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 keywords = [
  "black stories", "real life stories", "inspirational narratives", "emotional stories", 
 "touching stories", "life lessons", "amazing stories", "empowering stories", "overcoming challenges", 
-"social justice", "respect and equality", instructive life stories", "heartfelt moments", 
 "moral lessons", justice and fairness", "personal growth", 
 "triumph over adversity", "inspiring life stories", "prejudice and bias", 
 "cultural narratives", "powerful lessons "
